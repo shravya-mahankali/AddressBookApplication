@@ -52,7 +52,7 @@ public class AddressEntry {
 	 * @param city			initialize city
 	 * @param state			initialize state
 	 * @param zip			initialize zip
-	 * @param telephone		initialize telephone
+	 * @param phone		initialize telephone
 	 * @param email			initialize email
 	 */
 	

@@ -21,7 +21,7 @@ public class AddressBookTest {
 	AddressBook ab;
 	/**
 	 * This method checks for total number of address entries on the addressEntryList
-	 * Test method for {@link AddressBook#list()}.
+	 * Test method for {@link AddressBook#List()}.
 	 */
 	@Test
 	public void testList() {
